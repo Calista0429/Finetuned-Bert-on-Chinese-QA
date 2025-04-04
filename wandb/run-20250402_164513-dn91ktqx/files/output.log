@@ -1,0 +1,112 @@
+Start Training ...
+Epoch 1 | Step 100 | loss = 5.310, acc = 0.000
+Epoch 1 | Step 200 | loss = 5.339, acc = 0.000
+Epoch 1 | Step 300 | loss = 5.289, acc = 0.000
+Epoch 1 | Step 400 | loss = 5.208, acc = 0.001
+Epoch 1 | Step 500 | loss = 5.118, acc = 0.005
+Epoch 1 | Step 600 | loss = 4.988, acc = 0.005
+Epoch 1 | Step 700 | loss = 4.812, acc = 0.007
+Epoch 1 | Step 800 | loss = 4.636, acc = 0.011
+Epoch 1 | Step 900 | loss = 4.389, acc = 0.007
+Epoch 1 | Step 1000 | loss = 4.117, acc = 0.024
+Epoch 1 | Step 1100 | loss = 3.805, acc = 0.031
+Epoch 1 | Step 1200 | loss = 3.495, acc = 0.051
+Epoch 1 | Step 1300 | loss = 3.048, acc = 0.119
+Epoch 1 | Step 1400 | loss = 2.755, acc = 0.126
+Epoch 1 | Step 1500 | loss = 2.437, acc = 0.212
+Epoch 1 | Step 1600 | loss = 2.288, acc = 0.267
+Epoch 1 | Step 1700 | loss = 2.124, acc = 0.279
+Epoch 1 | Step 1800 | loss = 2.116, acc = 0.280
+Epoch 1 | Step 1900 | loss = 1.899, acc = 0.324
+Epoch 1 | Step 2000 | loss = 1.850, acc = 0.373
+Epoch 1 | Step 2100 | loss = 1.828, acc = 0.356
+Epoch 1 | Step 2200 | loss = 1.781, acc = 0.382
+Epoch 1 | Step 2300 | loss = 1.687, acc = 0.406
+Epoch 1 | Step 2400 | loss = 1.612, acc = 0.426
+Epoch 1 | Step 2500 | loss = 1.559, acc = 0.424
+Epoch 1 | Step 2600 | loss = 1.425, acc = 0.509
+Epoch 1 | Step 2700 | loss = 1.342, acc = 0.525
+Epoch 1 | Step 2800 | loss = 1.457, acc = 0.495
+Epoch 1 | Step 2900 | loss = 1.345, acc = 0.507
+Epoch 1 | Step 3000 | loss = 1.403, acc = 0.487
+Epoch 1 | Step 3100 | loss = 1.322, acc = 0.522
+Epoch 1 | Step 3200 | loss = 1.160, acc = 0.548
+Epoch 1 | Step 3300 | loss = 1.263, acc = 0.545
+Evaluating Dev Set ...
+Validation | Epoch 4 | acc = 0.594
+Epoch 2 | Step 100 | loss = 1.138, acc = 0.551
+Epoch 2 | Step 200 | loss = 1.109, acc = 0.577
+Epoch 2 | Step 300 | loss = 1.130, acc = 0.569
+Epoch 2 | Step 400 | loss = 1.103, acc = 0.586
+Epoch 2 | Step 500 | loss = 1.030, acc = 0.590
+Epoch 2 | Step 600 | loss = 1.229, acc = 0.565
+Epoch 2 | Step 700 | loss = 1.054, acc = 0.570
+Epoch 2 | Step 800 | loss = 1.073, acc = 0.577
+Epoch 2 | Step 900 | loss = 0.975, acc = 0.589
+Epoch 2 | Step 1000 | loss = 1.087, acc = 0.599
+Epoch 2 | Step 1100 | loss = 1.129, acc = 0.582
+Epoch 2 | Step 1200 | loss = 0.957, acc = 0.610
+Epoch 2 | Step 1300 | loss = 1.021, acc = 0.579
+Epoch 2 | Step 1400 | loss = 0.953, acc = 0.611
+Epoch 2 | Step 1500 | loss = 1.046, acc = 0.590
+Epoch 2 | Step 1600 | loss = 1.061, acc = 0.592
+Epoch 2 | Step 1700 | loss = 1.029, acc = 0.614
+Epoch 2 | Step 1800 | loss = 1.071, acc = 0.585
+Epoch 2 | Step 1900 | loss = 1.022, acc = 0.597
+Epoch 2 | Step 2000 | loss = 0.980, acc = 0.594
+Epoch 2 | Step 2100 | loss = 0.908, acc = 0.607
+Epoch 2 | Step 2200 | loss = 1.047, acc = 0.574
+Epoch 2 | Step 2300 | loss = 0.982, acc = 0.604
+Epoch 2 | Step 2400 | loss = 1.000, acc = 0.592
+Epoch 2 | Step 2500 | loss = 0.897, acc = 0.624
+Epoch 2 | Step 2600 | loss = 0.986, acc = 0.613
+Epoch 2 | Step 2700 | loss = 1.028, acc = 0.600
+Epoch 2 | Step 2800 | loss = 0.976, acc = 0.635
+Epoch 2 | Step 2900 | loss = 1.099, acc = 0.572
+Epoch 2 | Step 3000 | loss = 0.926, acc = 0.613
+Epoch 2 | Step 3100 | loss = 1.009, acc = 0.589
+Epoch 2 | Step 3200 | loss = 0.992, acc = 0.595
+Epoch 2 | Step 3300 | loss = 0.975, acc = 0.627
+Evaluating Dev Set ...
+Validation | Epoch 4 | acc = 0.656
+Epoch 3 | Step 100 | loss = 0.938, acc = 0.619
+Epoch 3 | Step 200 | loss = 0.935, acc = 0.636
+Epoch 3 | Step 300 | loss = 0.892, acc = 0.639
+Epoch 3 | Step 400 | loss = 0.914, acc = 0.615
+Epoch 3 | Step 500 | loss = 0.833, acc = 0.661
+Epoch 3 | Step 600 | loss = 0.864, acc = 0.649
+Epoch 3 | Step 700 | loss = 0.808, acc = 0.659
+Epoch 3 | Step 800 | loss = 0.849, acc = 0.651
+Epoch 3 | Step 900 | loss = 0.907, acc = 0.644
+Epoch 3 | Step 1000 | loss = 0.896, acc = 0.632
+Epoch 3 | Step 1100 | loss = 0.823, acc = 0.666
+Epoch 3 | Step 1200 | loss = 0.919, acc = 0.639
+Epoch 3 | Step 1300 | loss = 0.858, acc = 0.651
+Epoch 3 | Step 1400 | loss = 0.921, acc = 0.609
+Epoch 3 | Step 1500 | loss = 0.783, acc = 0.666
+Epoch 3 | Step 1600 | loss = 0.823, acc = 0.676
+Epoch 3 | Step 1700 | loss = 0.968, acc = 0.620
+Epoch 3 | Step 1800 | loss = 0.901, acc = 0.632
+Epoch 3 | Step 1900 | loss = 0.812, acc = 0.665
+Epoch 3 | Step 2000 | loss = 0.880, acc = 0.652
+Epoch 3 | Step 2100 | loss = 0.876, acc = 0.631
+Epoch 3 | Step 2200 | loss = 0.849, acc = 0.674
+Epoch 3 | Step 2300 | loss = 0.821, acc = 0.674
+Epoch 3 | Step 2400 | loss = 0.864, acc = 0.650
+Epoch 3 | Step 2500 | loss = 0.839, acc = 0.661
+Epoch 3 | Step 2600 | loss = 0.828, acc = 0.661
+Epoch 3 | Step 2700 | loss = 0.838, acc = 0.649
+Epoch 3 | Step 2800 | loss = 0.898, acc = 0.641
+Epoch 3 | Step 2900 | loss = 0.911, acc = 0.631
+Epoch 3 | Step 3000 | loss = 0.875, acc = 0.619
+Epoch 3 | Step 3100 | loss = 0.819, acc = 0.662
+Epoch 3 | Step 3200 | loss = 0.856, acc = 0.636
+Epoch 3 | Step 3300 | loss = 0.900, acc = 0.632
+Evaluating Dev Set ...
+Validation | Epoch 4 | acc = 0.666
+Saving Model ...
+Some weights of the model checkpoint at fnlp/bart-large-chinese were not used when initializing BartForQuestionAnswering: ['lm_head.weight', 'final_logits_bias']
+- This IS expected if you are initializing BartForQuestionAnswering from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BartForQuestionAnswering from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of BartForQuestionAnswering were not initialized from the model checkpoint at fnlp/bart-large-chinese and are newly initialized: ['qa_outputs.bias', 'qa_outputs.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.

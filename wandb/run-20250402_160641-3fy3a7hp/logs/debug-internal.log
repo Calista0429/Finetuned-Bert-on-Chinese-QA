@@ -1,0 +1,12 @@
+{"time":"2025-04-02T16:06:41.2489603+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"D:\\Code\\Machine Translation\\wandb\\run-20250402_160641-3fy3a7hp\\logs\\debug-core.log"}
+{"time":"2025-04-02T16:06:41.3591511+09:00","level":"INFO","msg":"created new stream","id":"3fy3a7hp"}
+{"time":"2025-04-02T16:06:41.3591511+09:00","level":"INFO","msg":"stream: started","id":"3fy3a7hp"}
+{"time":"2025-04-02T16:06:41.3591511+09:00","level":"INFO","msg":"sender: started","stream_id":"3fy3a7hp"}
+{"time":"2025-04-02T16:06:41.3591511+09:00","level":"INFO","msg":"handler: started","stream_id":"3fy3a7hp"}
+{"time":"2025-04-02T16:06:41.3591511+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"3fy3a7hp"}
+{"time":"2025-04-02T16:06:41.7027023+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-02T16:06:41.8661279+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-02T16:06:53.591962+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-02T16:06:54.2913661+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-02T16:07:22.6167076+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-02T16:23:42.9203241+09:00","level":"INFO","msg":"Pausing system monitor"}

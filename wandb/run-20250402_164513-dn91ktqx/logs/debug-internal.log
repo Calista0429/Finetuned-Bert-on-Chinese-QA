@@ -1,0 +1,12 @@
+{"time":"2025-04-02T16:45:13.471953+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"D:\\Code\\Machine Translation\\wandb\\run-20250402_164513-dn91ktqx\\logs\\debug-core.log"}
+{"time":"2025-04-02T16:45:13.5814929+09:00","level":"INFO","msg":"created new stream","id":"dn91ktqx"}
+{"time":"2025-04-02T16:45:13.5814929+09:00","level":"INFO","msg":"stream: started","id":"dn91ktqx"}
+{"time":"2025-04-02T16:45:13.5814929+09:00","level":"INFO","msg":"handler: started","stream_id":"dn91ktqx"}
+{"time":"2025-04-02T16:45:13.5814929+09:00","level":"INFO","msg":"sender: started","stream_id":"dn91ktqx"}
+{"time":"2025-04-02T16:45:13.5814929+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"dn91ktqx"}
+{"time":"2025-04-02T16:45:13.900391+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-02T16:45:14.3500971+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-02T16:45:26.3527184+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-02T17:02:36.4925263+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-02T17:08:00.5335888+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-02T17:08:57.6996956+09:00","level":"INFO","msg":"Pausing system monitor"}
