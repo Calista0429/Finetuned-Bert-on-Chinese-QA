@@ -1,8 +1,0 @@
-2025-04-02 16:04:59,687 INFO    MainThread:10880 [wandb_init.py:setup_run_log_directory():647] Logging user logs to D:\Code\Machine Translation\wandb\run-20250402_160459-raqskq1e\logs\debug.log
-2025-04-02 16:04:59,687 INFO    MainThread:10880 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to D:\Code\Machine Translation\wandb\run-20250402_160459-raqskq1e\logs\debug-internal.log
-2025-04-02 16:04:59,687 INFO    MainThread:10880 [wandb_init.py:init():761] calling init triggers
-2025-04-02 16:04:59,687 INFO    MainThread:10880 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
-config: {'savedir': './checkpoints/bert-medium', 'num_epoch': 3, 'validation': True, 'logging_step': 100, 'learning_rate': 1e-05, 'train_batch_size': 8, 'use_wandb': True, '_wandb': {}}
-2025-04-02 16:04:59,688 INFO    MainThread:10880 [wandb_init.py:init():776] wandb.init() called while a run is active
-2025-04-02 16:04:59,691 INFO    MainThread:10880 [jupyter.py:save_ipynb():386] not saving jupyter notebook
-2025-04-02 16:04:59,691 INFO    MainThread:10880 [wandb_init.py:_pause_backend():564] pausing backend
