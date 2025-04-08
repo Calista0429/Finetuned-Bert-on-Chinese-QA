@@ -78,5 +78,11 @@ The model was built in four stages:
 <p align="center">
     <img src="img/val_acc.png" alt="training loss of model">
 </p>
----
 
+---
+## How to run
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RclVD1eM7MpsG2wNmAep0xvnI5C6F3mG?usp=sharing)
+
+```bash
+python train.py 
+```
